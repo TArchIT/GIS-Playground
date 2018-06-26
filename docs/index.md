@@ -1,4 +1,4 @@
-Open-Data und andere Daten für archäologische Karten
+**Open-Data und andere Daten für archäologische Karten**
 
 * [Read online](GIS-Open-Data.md)
 
